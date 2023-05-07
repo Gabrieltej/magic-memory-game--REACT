@@ -1,8 +1,8 @@
-## Memory Game React App
+### Memory Game React App
 This is a memory game built using React. The objective of the game is to match all the pairs of cards on the board.
 
-# Getting Started
-## To get started with this project, follow these steps:
+### Getting Started
+### To get started with this project, follow these steps:
 
 * Clone this repository to your local machine.
 * Navigate to the project directory.
@@ -10,7 +10,7 @@ This is a memory game built using React. The objective of the game is to match a
 * Run `npm start` to start the development server.
 * Open `http://localhost:3000` to view the app in the browser.
 
-# How to Play
+### How to Play
 * Click on a card to flip it over.
 * Click on another card to flip it over.
 * If the two cards match, they will stay flipped over.
@@ -18,14 +18,14 @@ This is a memory game built using React. The objective of the game is to match a
 * Repeat steps 1-4 until all pairs have been matched.
 
 
-# Features
+### Features
 * Random card placement on each new game start.
 * Timer to keep track of how long it takes to complete the game.
 * Move counter to keep track of how many moves the player makes.
 * Modal popup to show the player's score and give the option to play again.
 * Responsive design that adapts to different screen sizes.
 
-# Technologies Used
+### Technologies Used
 * React
 * CSS
 * HTML
